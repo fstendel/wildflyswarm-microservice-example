@@ -1,6 +1,6 @@
 # Wildfly swarm sample application
 
-Project used for practicing and demonstratig the usage of Wildfly-Swarm.
+Project used for practicing and demonstrating the usage of Wildfly-Swarm.
 
 ## Prerequisites 
 * Java 1.8 or higher
